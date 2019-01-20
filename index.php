@@ -32,7 +32,8 @@
 				echo "";
 				break;
 			}
-		?>
+?>
 	</section>
+	//adicionado esse comentario só para testar se as mudanças são salvas
 </body>
 </html>
