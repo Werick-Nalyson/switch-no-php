@@ -35,6 +35,6 @@
 ?>
 	</section>
 	//adicionado esse comentario só para testar se as mudanças são salvas
-	//nada mais a declarar.
+	//nada mais a declararar.
 </body>
 </html>
